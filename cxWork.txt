@@ -1,0 +1,3 @@
+Now cx in working.
+typing a c code...
+work end.
